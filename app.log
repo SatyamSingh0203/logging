@@ -1,0 +1,88 @@
+2023-07-13T15:27:15.669+05:30  INFO 21324 --- [main] com.logging.JrtpLogApplication           : Starting JrtpLogApplication using Java 17.0.7 with PID 21324 (E:\JRTP_21\JRTP_log\target\classes started by Satyam in E:\JRTP_21\JRTP_log)
+2023-07-13T15:27:15.673+05:30  INFO 21324 --- [main] com.logging.JrtpLogApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-07-13T15:27:16.812+05:30  INFO 21324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2023-07-13T15:27:16.871+05:30  INFO 21324 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-13T15:27:16.872+05:30  INFO 21324 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-13T15:27:17.014+05:30  INFO 21324 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-13T15:27:17.015+05:30  INFO 21324 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1289 ms
+2023-07-13T15:27:17.397+05:30  INFO 21324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2023-07-13T15:27:17.412+05:30  INFO 21324 --- [main] com.logging.JrtpLogApplication           : Started JrtpLogApplication in 2.155 seconds (process running for 3.007)
+2023-07-13T15:27:46.306+05:30  INFO 21324 --- [http-nio-8089-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-13T15:27:46.306+05:30  INFO 21324 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-13T15:27:46.306+05:30  INFO 21324 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-07-13T15:27:46.375+05:30 ERROR 21324 --- [http-nio-8089-exec-1] com.logging.rest.DemoRestController      : Exception occur / by zero
+2023-07-13T15:27:53.111+05:30  INFO 21324 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-13T15:27:53.500+05:30  INFO 21324 --- [RMI TCP Connection(10)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-13T15:27:53.507+05:30  INFO 21324 --- [RMI TCP Connection(10)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-13T15:31:08.588+05:30  INFO 32824 --- [main] com.logging.JrtpLogApplication           : Starting JrtpLogApplication using Java 17.0.7 with PID 32824 (E:\JRTP_21\JRTP_log\target\classes started by Satyam in E:\JRTP_21\JRTP_log)
+2023-07-13T15:31:08.591+05:30  INFO 32824 --- [main] com.logging.JrtpLogApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-07-13T15:31:09.626+05:30  INFO 32824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2023-07-13T15:31:09.647+05:30  INFO 32824 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-13T15:31:09.647+05:30  INFO 32824 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-13T15:31:09.756+05:30  INFO 32824 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-13T15:31:09.757+05:30  INFO 32824 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1110 ms
+2023-07-13T15:31:10.151+05:30  INFO 32824 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2023-07-13T15:31:10.162+05:30  INFO 32824 --- [main] com.logging.JrtpLogApplication           : Started JrtpLogApplication in 2.092 seconds (process running for 2.79)
+2023-07-13T15:31:26.627+05:30  INFO 32824 --- [http-nio-8089-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-13T15:31:26.628+05:30  INFO 32824 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-13T15:31:26.631+05:30  INFO 32824 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-07-13T15:31:26.662+05:30 ERROR 32824 --- [http-nio-8089-exec-1] com.logging.rest.DemoRestController      : Exception occur / by zero
+2023-07-13T15:35:41.423+05:30  INFO 20776 --- [main] com.logging.JrtpLogApplication           : Starting JrtpLogApplication using Java 17.0.7 with PID 20776 (E:\JRTP_21\JRTP_log\target\classes started by Satyam in E:\JRTP_21\JRTP_log)
+2023-07-13T15:35:41.426+05:30  INFO 20776 --- [main] com.logging.JrtpLogApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-07-13T15:35:43.108+05:30  INFO 20776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2023-07-13T15:35:43.127+05:30  INFO 20776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-13T15:35:43.128+05:30  INFO 20776 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-13T15:35:44.172+05:30  INFO 20776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-13T15:35:44.173+05:30  INFO 20776 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2693 ms
+2023-07-13T15:35:44.508+05:30  WARN 20776 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-07-13T15:35:44.513+05:30  INFO 20776 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-13T15:35:44.572+05:30  INFO 20776 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-07-13T15:35:44.618+05:30 ERROR 20776 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8089 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8089 or configure this application to listen on another port.
+
+2023-07-13T15:35:52.973+05:30  INFO 32824 --- [RMI TCP Connection(13)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-13T15:35:54.118+05:30  INFO 32824 --- [RMI TCP Connection(13)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-13T15:35:54.123+05:30  INFO 32824 --- [RMI TCP Connection(13)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-13T15:36:09.700+05:30  INFO 19608 --- [main] com.logging.JrtpLogApplication           : Starting JrtpLogApplication using Java 17.0.7 with PID 19608 (E:\JRTP_21\JRTP_log\target\classes started by Satyam in E:\JRTP_21\JRTP_log)
+2023-07-13T15:36:09.734+05:30  INFO 19608 --- [main] com.logging.JrtpLogApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-07-13T15:36:12.052+05:30  INFO 19608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2023-07-13T15:36:12.071+05:30  INFO 19608 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-13T15:36:12.072+05:30  INFO 19608 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-13T15:36:12.315+05:30  INFO 19608 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-13T15:36:12.315+05:30  INFO 19608 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2517 ms
+2023-07-13T15:36:12.909+05:30  INFO 19608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2023-07-13T15:36:12.928+05:30  INFO 19608 --- [main] com.logging.JrtpLogApplication           : Started JrtpLogApplication in 3.796 seconds (process running for 4.647)
+2023-07-13T15:37:39.618+05:30  INFO 19608 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-13T15:37:39.662+05:30  INFO 19608 --- [RMI TCP Connection(11)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-13T15:38:45.479+05:30  INFO 23220 --- [main] com.logging.JrtpLogApplication           : Starting JrtpLogApplication using Java 17.0.7 with PID 23220 (E:\JRTP_21\JRTP_log\target\classes started by Satyam in E:\JRTP_21\JRTP_log)
+2023-07-13T15:38:45.482+05:30  INFO 23220 --- [main] com.logging.JrtpLogApplication           : No active profile set, falling back to 1 default profile: "default"
+2023-07-13T15:38:46.557+05:30  INFO 23220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2023-07-13T15:38:46.573+05:30  INFO 23220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-13T15:38:46.574+05:30  INFO 23220 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-13T15:38:46.747+05:30  INFO 23220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-13T15:38:46.747+05:30  INFO 23220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1209 ms
+2023-07-13T15:38:47.148+05:30  INFO 23220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2023-07-13T15:38:47.157+05:30  INFO 23220 --- [main] com.logging.JrtpLogApplication           : Started JrtpLogApplication in 2.192 seconds (process running for 2.984)
+2023-07-13T15:39:04.865+05:30  INFO 23220 --- [http-nio-8089-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-13T15:39:04.867+05:30  INFO 23220 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-13T15:39:04.871+05:30  INFO 23220 --- [http-nio-8089-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-07-13T15:39:04.923+05:30  INFO 23220 --- [http-nio-8089-exec-1] com.logging.rest.GetGreetingmsg          : greeting methos started
+2023-07-13T15:39:04.923+05:30  INFO 23220 --- [http-nio-8089-exec-1] com.logging.rest.GetGreetingmsg          : greeting methos ended
+2023-07-13T15:39:12.865+05:30 ERROR 23220 --- [http-nio-8089-exec-4] com.logging.rest.DemoRestController      : Exception occur / by zero
+2023-07-13T17:08:21.888+05:30  INFO 23220 --- [RMI TCP Connection(100)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-13T17:08:21.888+05:30  INFO 23220 --- [RMI TCP Connection(99)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-13T17:08:33.363+05:30  INFO 23220 --- [RMI TCP Connection(100)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-13T17:08:33.826+05:30  INFO 23220 --- [RMI TCP Connection(100)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
